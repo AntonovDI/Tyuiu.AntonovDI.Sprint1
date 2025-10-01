@@ -6,6 +6,23 @@ internal class Program
     private static void Main(string[] args)
     {
         DataService ds = new DataService();
+        Console.Title = "Спринт #1 | Выполнил: Антонов Д. И. | ИСТНб-25-1";
+        Console.WriteLine("***************************************************************************");
+        Console.WriteLine("* Спринт #1                                                               *");
+        Console.WriteLine("* Тема: Создание итогового решения по спринту                             *");
+        Console.WriteLine("* Задание #3                                                              *");
+        Console.WriteLine("* Вариант #15                                                             *");
+        Console.WriteLine("* Выполнил: Антонов Даниил Иванович | ИСТНб-25-1                          *");
+        Console.WriteLine("***************************************************************************");
+        Console.WriteLine("* УСЛОВИЕ:                                                                *");
+        Console.WriteLine("* Написать программу, решающую следующую задачу: два автомобиля имеют     *");
+        Console.WriteLine("* скорости V1 км/ч и V2 км/ч соответственно, находятся на расстоянии S км *");
+        Console.WriteLine("* друг от друга и движутся в противоположные стороны. Определить          *");
+        Console.WriteLine("* расстояние между ними через T часов. Ответ округлите до 3 знаков        *");
+        Console.WriteLine("* после запятой.                                                          *");
+        Console.WriteLine("*                                                                         *");
+        Console.WriteLine("* одинаковых массивов по длине.                                           *");
+        Console.WriteLine("*                                                                         *");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
         Console.WriteLine("***************************************************************************");
